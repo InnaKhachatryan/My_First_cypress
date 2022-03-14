@@ -1,0 +1,25 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "revan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.1",
+    "mocha": "^9.2.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnaKhachatryan/My_First_cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/InnaKhachatryan/My_First_cypress/issues"
+  },
+  "homepage": "https://github.com/InnaKhachatryan/My_First_cypress#readme",
+  "keywords": [],
+  "description": ""
+}
